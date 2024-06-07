@@ -1,5 +1,6 @@
 # covid19_malaria_sql
 This repository contains "cleaned/reduced" csv and sql files related to COVID-19(up to Nov. 2023)  and malaria data(from 2000-2021).
+
 Data sources:
 Cumulative confirmed COVID-19 cases and deaths. (n.d.). Our World in Data. https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19?tab=table&time=earliest..latest
  
